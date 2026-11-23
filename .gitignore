@@ -1,0 +1,13 @@
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Tools & SDK
+.qodo/
+unitree_sdk2_python/
+
+# Project data & temporary files
+models/
+temp/

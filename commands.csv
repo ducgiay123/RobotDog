@@ -1,0 +1,15 @@
+phrase,action,x,y,z,duration
+stand up,stand,0.0,0.0,0.0,0.0
+sit down,sit,0.0,0.0,0.0,0.0
+lay down,damp,0.0,0.0,0.0,0.0
+dance one,dance1,0.0,0.0,0.0,0.0
+dance for me,dance1,0.0,0.0,0.0,0.0
+danced for me,dance1,0.0,0.0,0.0,0.0
+dance 1,dance1,0.0,0.0,0.0,0.0
+move forward,move,0.5,0.0,0.0,2.0
+move backward,move,-0.5,0.0,0.0,2.0
+move back,move,-0.5,0.0,0.0,2.0
+turn left,move,0.0,0.0,0.5,1.5
+turn right,move,0.0,0.0,-0.5,1.5
+stop,stop,0.0,0.0,0.0,0.0
+quit,quit,0.0,0.0,0.0,0.0
